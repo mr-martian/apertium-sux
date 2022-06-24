@@ -1,1 +1,1 @@
-# apertium-sux
+README

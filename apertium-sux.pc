@@ -1,0 +1,8 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+srcdir=${prefix}/share/apertium/apertium-sux
+
+Name: apertium-sux
+Description: Finite-state morphological transducer and constraint grammar for Sumerian
+Version: 0.1.0
+

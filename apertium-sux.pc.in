@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-sux
+
+Name: apertium-sux
+Description: Finite-state morphological transducer and constraint grammar for Sumerian
+Version: @VERSION@
+

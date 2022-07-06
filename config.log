@@ -30,14 +30,13 @@ Kernel configured for up to 8 processors.
 Processor type: arm64e (ARM64E)
 Processors active: 0 1 2 3 4 5 6 7
 Primary memory available: 16.00 gigabytes
-Default processor set: 530 tasks, 3246 threads, 8 processors
-Load average: 4.54, Mach factor: 3.65
+Default processor set: 435 tasks, 3459 threads, 8 processors
+Load average: 5.24, Mach factor: 2.77
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
 
-PATH: /opt/homebrew/bin/
-PATH: /opt/homebrew/sbin/
+PATH: /opt/homebrew/anaconda3/envs/gsoc/bin/
 PATH: /opt/homebrew/anaconda3/condabin/
 PATH: /opt/homebrew/bin/
 PATH: /opt/homebrew/sbin/
